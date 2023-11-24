@@ -13,3 +13,5 @@ EngramEntry_StandingTorchPlus_C
 EngramEntry_WallTorchPlus_C
 EngramEntry_OmniTool_C
 EngramEntry_SplusMultiTool_C
+EngramEntry_Propagator_C
+EngramEntry_GenomicsChamber_C
