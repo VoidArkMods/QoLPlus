@@ -79,3 +79,42 @@ If you were using `S+` in Ark: Survival Evolved: the name of the settings did no
 | DisableMultiToolDinoKillMode | False | Disables the Kill sub-mode of the Multi-Tool from functioning (will still be visible but unable to be used) |
 | DisableMultiToolDinoChibiMode | False | Disables the Chibify sub-mode of the Multi-Tool from functioning (will still be visible but unable to be used) |
 | AllowMultiToolNeuterAll | False | Allows the Neuter sub-mode of the Multi-Tool to neuter dinos that normally can't be neutered |
+| GrinderSlotCount | 200 | Amount of slots in the Grinder |
+| GrinderCraftingSpeed | 1 | The crafting speed of the Grinder (Max: 100) |
+| GrinderResourceReturnPercent | 30 | Percentage of the crafting components to give back when grinding an item |
+| GrinderResourceReturnMax | 10000 | The maximum quantity of a crafting component to give back when grinding an item |
+| GrinderReturnBlockedResources | False | Allows the grinder to return items the vanilla grinder would not (ie element) |
+| GrinderBlacklist |  | Prevent any listed items from being processed by the grinder |
+| GrinderScaleMultiplier | 1.0 | Overrides the default scale of the grinder (max: 2.0) |
+| AllowGrindingMissionRewards | False | Allows grinding of items that are normally grindable but set as not grindable due to being a reward |
+| IndustrialForgeSlotCount | 100 | Amount of slots in the Industrial Forge |
+| IndustrialForgeCraftingSpeed | 1 | The crafting speed of the Industrial Forge (Max: 100) |
+| IndustrialForgeScaleMultiplier | 1.0 | Overrides the default scale of the industrial forge (max: 2.0) |
+| EnableStructureSound | False | Enables sound on most structures that have vanilla versions that also produce sound (It does not make every structure produce sound) |
+| GeneratorSlotCount | 8 | Amount of slots in the Generator |
+| MaxPowerRangeInFoundations | 50 | Absolute maximum range of QoL+ power-providing structures (Generator and Tek Generator, min: 5, max: 100) |
+| ReplicatorScaleMultiplier | 1.3 | Overrides the default scale of the replicator (max: 2) |
+| ReplicatorSlotCount | 600 | Amount of slots in the Replicator |
+| ReplicatorCraftingSpeed | 12 | The crafting speed of the Replicator (Max: 100) |
+| DisableBlueprintInstall | False | Prevents blueprints from being installed in QoL+ crafting stations |
+| FridgeSlotCount | 150 | Amount of slots in the Fridge |
+| FridgeCraftingSpeed | 1 | The crafting speed of the Fridge (Max: 100) |
+| PreservingBinSlotCount | 50 | Amount of slots in the Preserving Bin |
+| PreservingBinCraftingSpeed | 1 | The crafting speed of the Preserving Bin (Max: 100) |
+| FabricatorSlotCount | 300 | Amount of slots in the Fabricator |
+| FabricatorCraftingSpeed | 1 | The crafting speed of the Fabricator (Max: 100) |
+| TekGeneratorSlotCount | 100 | Amount of slots in the Tek Generator |
+
+## Changelog
+
+30/11/2023 (CurseForge crossplay version 15+)
+- QoL+ MultiTool won't outline non-targeted creatures anymore.
+- QoL+ Grinder: can be customized (sound, scale, crafting speed, resource return, blacklist, slot count).
+- QoL+ Industrial Forge: can be customized (sound, scale, crafting speed, slot count).
+- QoL+ Generator: dynamic range, can be customized (sound, slot count, max range).
+- QoL+ Converter: converts vanilla structure into their QoL+ counterpart, and vice versa.
+- QoL+ Replicator: can be customized (sound, scale, slot count, crafting speed).
+- QoL+ Fridge: can be customized (slot count, crafting speed). Can preserve items that usually ignore preservation (eg Organic Polymer).
+- QoL+ Preserving Bin: can be customized (slot count, crafting speed). Can be renamed, prefix the name with a star (*) to ignore when pulling resources.
+- QoL+ Fabricator: can be customized (sound, slot count, crafting speed).
+- QoL+ Tek Generator: dynamic range, can be customized (sound, slot count, max range).
