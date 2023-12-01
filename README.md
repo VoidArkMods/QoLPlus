@@ -111,10 +111,10 @@ If you were using `S+` in Ark: Survival Evolved: the name of the settings did no
 - QoL+ MultiTool won't outline non-targeted creatures anymore.
 - QoL+ Grinder: can be customized (sound, scale, crafting speed, resource return, blacklist, slot count).
 - QoL+ Industrial Forge: can be customized (sound, scale, crafting speed, slot count).
-- QoL+ Generator: dynamic range, can be customized (sound, slot count, max range).
+(POSTPONED) - QoL+ Generator: dynamic range, can be customized (sound, slot count, max range).
 - QoL+ Converter: converts vanilla structure into their QoL+ counterpart, and vice versa.
 - QoL+ Replicator: can be customized (sound, scale, slot count, crafting speed).
 - QoL+ Fridge: can be customized (slot count, crafting speed). Can preserve items that usually ignore preservation (eg Organic Polymer).
 - QoL+ Preserving Bin: can be customized (slot count, crafting speed). Can be renamed, prefix the name with a star (*) to ignore when pulling resources.
 - QoL+ Fabricator: can be customized (sound, slot count, crafting speed).
-- QoL+ Tek Generator: dynamic range, can be customized (sound, slot count, max range).
+(POSTPONED) - QoL+ Tek Generator: dynamic range, can be customized (sound, slot count, max range).
