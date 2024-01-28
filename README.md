@@ -104,8 +104,21 @@ If you were using `S+` in Ark: Survival Evolved: the name of the settings did no
 | FabricatorSlotCount | 300 | Amount of slots in the Fabricator |
 | FabricatorCraftingSpeed | 1 | The crafting speed of the Fabricator (Max: 100) |
 | TekGeneratorSlotCount | 100 | Amount of slots in the Tek Generator |
+| DedicatedIntakeMaxRangeInFoundations | 50 | Maximum range of the upload range of the Dedicated Storage Intake, in foundations (min: 1, max: 100) |
 
 ## Changelog
+
+28/01/2024 (CurseForge crossplay version 34)
+- QoL+ Dedicated Storage: can store perishable goods. Acts as a fridge.
+- QoL+ Dedicated Storage Intake: can be configured in size and interaction mode. Touch it or attack it to upload your inventory into nearby QoL+ Dedicated Storages.
+- Fixed pulling from/to Dedicated Storages.
+- Fixed transfering with the Omni-tool from/to Dedicated Storages.
+
+25/01/2024 (CurseForge crossplay version 33)
+- fix: QoL+ Propagator now forwards the mutation stacks as expected.
+
+22/01/2024 (CurseForge crossplay version 32)
+- QoL+ Propagator now varies the mutation stacks, not the wild level anymore.
 
 30/11/2023 (CurseForge crossplay version 15+)
 - QoL+ MultiTool won't outline non-targeted creatures anymore.
