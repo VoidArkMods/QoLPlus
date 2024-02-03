@@ -108,19 +108,24 @@ If you were using `S+` in Ark: Survival Evolved: the name of the settings did no
 
 ## Changelog
 
-28/01/2024 (CurseForge crossplay version 34)
+##### 03/02/2024 (CurseForge crossplay version 35)
+- Fixed withdraw from dedicated storages not working after a dedicated server restart.
+- Improved compatibility with modded dedicated storages: it should now be possible to pull from/to them, as well as using the basic transfer from the OmniTool.
+- Improved compatibility of the QoL+ Propagator with cryopod mods: the gender in modded cryopods should now be understood properly by the QoL+ Propagator.
+
+##### 28/01/2024 (CurseForge crossplay version 34)
 - QoL+ Dedicated Storage: can store perishable goods. Acts as a fridge.
 - QoL+ Dedicated Storage Intake: can be configured in size and interaction mode. Touch it or attack it to upload your inventory into nearby QoL+ Dedicated Storages.
 - Fixed pulling from/to Dedicated Storages.
 - Fixed transfering with the Omni-tool from/to Dedicated Storages.
 
-25/01/2024 (CurseForge crossplay version 33)
+##### 25/01/2024 (CurseForge crossplay version 33)
 - fix: QoL+ Propagator now forwards the mutation stacks as expected.
 
-22/01/2024 (CurseForge crossplay version 32)
+##### 22/01/2024 (CurseForge crossplay version 32)
 - QoL+ Propagator now varies the mutation stacks, not the wild level anymore.
 
-30/11/2023 (CurseForge crossplay version 15+)
+##### 30/11/2023 (CurseForge crossplay version 15+)
 - QoL+ MultiTool won't outline non-targeted creatures anymore.
 - QoL+ Grinder: can be customized (sound, scale, crafting speed, resource return, blacklist, slot count).
 - QoL+ Industrial Forge: can be customized (sound, scale, crafting speed, slot count).
