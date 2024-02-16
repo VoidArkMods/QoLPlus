@@ -108,6 +108,10 @@ If you were using `S+` in Ark: Survival Evolved: the name of the settings did no
 
 ## Changelog
 
+##### ??/02/2024 (CurseForge crossplay version ??)
+- Fixed ancestry lineage when breeding through the QoL+ Propagator.
+- Fixed foliage and fluid interactions
+
 ##### 03/02/2024 (CurseForge crossplay version 35)
 - Fixed withdraw from dedicated storages not working after a dedicated server restart.
 - Improved compatibility with modded dedicated storages: it should now be possible to pull from/to them, as well as using the basic transfer from the OmniTool.
